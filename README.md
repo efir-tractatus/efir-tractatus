@@ -9,7 +9,7 @@ Pinned below you will find links to my most significant public projects on GitHu
 
 🌱 I’m currently learning graph theory and it's diverse implementations as well as how it ties into the blockchain (Etherium in particular)
 
-👯 I’m looking to collaborate on bug squshing and back end development. I enjoy working with Express.js & Apollo Server building RESTful or GraphQL APIs connecting to Postgresql or MongoDB datastores
+👯 I’m looking to collaborate on bug squshing and back end development. I enjoy working with Express.js & Apollo Server, building RESTful or GraphQL APIs connecting to Postgresql or MongoDB datastores
 
 <!--
 **efir-tractatus/efir-tractatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
