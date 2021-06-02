@@ -5,10 +5,6 @@ Did you know that mushrooms are just the fruiting bodies of a much larger organi
 
 Pinned below you will find links to my most significant public projects on GitHub.
 
-🔭 I’m currently working on the front end aspect of [efir.space](https://github.com/efir-tractatus/efir.space) which is being built with React & jQuery
-
-🌱 I’m currently learning graph theory and it's diverse implementations as well as how it ties into the blockchain (Etherium in particular)
-
 👯 I’m looking to collaborate on bug squshing and back end development. I enjoy working with Express.js & Apollo Server, building RESTful or GraphQL APIs that connect to SQL or noSQL datastores
 
 <!--
